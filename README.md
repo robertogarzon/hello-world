@@ -1,3 +1,4 @@
 # hello-world
 New project
-Roberto was born in Edison, NJ.
+
+This is Roberto, I like learning and creating new things.
